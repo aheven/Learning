@@ -29,3 +29,9 @@
 ##### [十四、contentpage组件](contentpage组件.md)
 
 ##### [十五、coordinatorlayout组件](coordinatorlayout组件.md)
+
+##### [十六、core组件](core组件.md)
+
+##### [十七、customview组件](customview组件.md)
+
+##### [十八、dataBinding组件](dataBinding组件.md)
