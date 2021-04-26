@@ -126,7 +126,7 @@ dependencies {
 
 ​	由`Lifecycle`对象跟踪的组件的当前状态。
 
-![构成 Android Activity 生命周期的状态和时间](C:\Users\Administrator\Documents\RxJava\pic\lifecycle-states.svg)
+![构成 Android Activity 生命周期的状态和时间](../pic/lifecycle-states.svg)
 
 您可以将状态看作图中的节点，将事件看作这些节点之间的边。
 
