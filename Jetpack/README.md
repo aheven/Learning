@@ -35,3 +35,5 @@
 ##### [十七、customview组件](customview组件.md)
 
 ##### [十八、dataBinding组件](dataBinding组件.md)
+
+##### [十九、lifecycle组件](lifecycle组件.md)
